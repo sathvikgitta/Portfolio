@@ -9,6 +9,7 @@ function App() {
           <a href="linkedin.com" target="_blank">
             Linkedin
           </a>
+          <br />
         </nav>
         <About />
         <Projects />
